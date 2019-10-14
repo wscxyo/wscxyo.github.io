@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/</guid>
+      <description>我的博客    我的博客     Contents      Content 第一篇博客   如何用hugo写博客 第一步：安装HUGO 在官网上下载，并把hugo.exe路径放到PATH中，运行以下代码： brew install hugo 查看HUGO是否安装成功 hugo version 第二步：新建一个网站: hugo new site mysite 第三步：安装主题： cd mysite git init git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke 第四步：添加要写的博客： hugo new posts/my-first-post.md 此时，你的博客已经创建好了 第五步：查看当前的博客效果： Hugo server -D 第六步：自定义主题： ### 在config.toml中配置 第七步：部署到GitHub pages 上 $ cd public $ git add -A $ git commit -m &amp;quot;first commit&amp;quot; $ git init $ git remote add origin git@github.</description>
+    </item>
+    
+  </channel>
+</rss>
