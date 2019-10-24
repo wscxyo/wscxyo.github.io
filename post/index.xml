@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Jane - A super concise theme for Hugo</title>
+    <title>Posts on Even - A super concise theme for Hugo</title>
     <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on Jane - A super concise theme for Hugo</description>
+    <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>zh-cn</language>
     <lastBuildDate>Sat, 19 Oct 2019 12:54:35 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@
       <pubDate>Sat, 19 Oct 2019 12:54:35 +0800</pubDate>
       
       <guid>http://localhost:1313/post/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
-      <description>常用HTML标签 一、文字与段落标签 标题标签：&amp;lt;h1&amp;gt;&amp;lt;/h1&amp;gt;~&amp;lt;h6&amp;gt;&amp;lt;/h6&amp;gt; 段落标签：</description>
+      <description>常用HTML标签 一、文字与段落标签 1 2 3 4 标题标签：&amp;lt;h1&amp;gt;&amp;lt;/h1&amp;gt;~&amp;lt;h6&amp;gt;&amp;lt;/h6&amp;gt; 段</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 14 Oct 2019 15:08:47 +0800</pubDate>
       
       <guid>http://localhost:1313/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
-      <description>如何用hugo写博客 第一步：安装HUGO 在官网上下载，并把hugo.exe路径放到PATH中，运行以下代码： brew install hugo 查看HUGO是否安装成功 hugo</description>
+      <description>如何用hugo写博客 第一步：安装HUGO 在官网上下载，并把hugo.exe路径放到PATH中，运行以下代码： 1 brew install hugo 查看HUGO是否安装成功</description>
     </item>
     
   </channel>
