@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 19 Oct 2019 12:54:35 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2019 15:28:30 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>第三篇博客</title>
+      <link>http://localhost:1313/post/%E7%AC%AC%E4%B8%89%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sat, 02 Nov 2019 15:28:30 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E7%AC%AC%E4%B8%89%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>浅析URL URL分哪几个部分？ https协议 域名/IP 端口号 路径 查询参数 锚 IP是什么？ IP是Internet Protocol(网际互连协议)</description>
+    </item>
     
     <item>
       <title>第二篇博客</title>
