@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 02 Nov 2019 15:28:30 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2019 12:36:51 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>第四篇博客</title>
+      <link>http://localhost:1313/post/%E7%AC%AC%E5%9B%9B%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Tue, 05 Nov 2019 12:36:51 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E7%AC%AC%E5%9B%9B%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>JavaScript的诞生 首先，布兰登·艾克在1995年5月仅花了十天时间就把原型设计出来了。 并且最初命名为Mocha，1995年9月在Ne</description>
+    </item>
     
     <item>
       <title>第三篇博客</title>
