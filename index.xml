@@ -6,10 +6,19 @@
     <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 05 Nov 2019 12:36:51 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2019 21:04:55 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>第五篇博客</title>
+      <link>http://localhost:1313/post/%E7%AC%AC%E4%BA%94%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sun, 17 Nov 2019 21:04:55 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E7%AC%AC%E4%BA%94%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>JS对象的基本用法 声明对象的两种语法 1.let obj={&amp;lsquo;name&amp;rsquo;:&amp;lsquo;小花&amp;rsquo;,&amp;lsquo;age</description>
+    </item>
     
     <item>
       <title>第四篇博客</title>
